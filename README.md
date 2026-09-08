@@ -13,7 +13,13 @@ An end-to-end **Sales Performance Dashboard** built in Power BI, covering revenu
 > Add screenshots of each page here after exporting from Power BI Desktop (`File > Export > Export as image`), e.g.:
 >
 > ```md
-> ![Overview Page](assets/overview.png)
+ <img width="1920" height="1126" alt="Screenshot 2026-09-08 232154" src="https://github.com/user-attachments/assets/6539b849-3935-4ac0-9164-167307db5132" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-08 232249" src="https://github.com/user-attachments/assets/2f501c68-47ad-4dea-ac31-4bf414d7facd" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-08 232315" src="https://github.com/user-attachments/assets/14b8c988-bc90-42f0-8c75-2ccc595583ea" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-08 232336" src="https://github.com/user-attachments/assets/03a58aa8-f040-4279-9967-b36550f0034d" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-08 232504" src="https://github.com/user-attachments/assets/a3eb0b02-cc22-4d9b-a7c2-e74f76b9d6a1" />
+
+
 > ![Top-Bottom Analysis](assets/top_bottom.png)
 > ```
 
@@ -178,7 +184,7 @@ A detailed, drillable transaction-level table (`Table visual`) exposing every ke
 ## 👤 Author
 
 **[Rohan Srivastav]**
-📧 srivastavrohan54321@gmail.com.com · 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-srivastav-1a623b1bb/) · 🌐 [Portfolio]()
+📧 srivastavrohan54321@gmail.com.com · 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-srivastav-1a623b1bb/) · 🌐 [Portfolio](https://github.com/Rohan-srivastav1)
 
 ---
 
