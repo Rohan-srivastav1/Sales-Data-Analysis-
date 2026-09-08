@@ -177,8 +177,8 @@ A detailed, drillable transaction-level table (`Table visual`) exposing every ke
 
 ## 👤 Author
 
-**[Your Name]**
-📧 your.email@example.com · 🔗 [LinkedIn](#) · 🌐 [Portfolio](#)
+**[Rohan Srivastav]**
+📧 srivastavrohan54321@gmail.com.com · 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-srivastav-1a623b1bb/) · 🌐 [Portfolio]()
 
 ---
 
